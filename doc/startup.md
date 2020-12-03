@@ -58,4 +58,15 @@ npm i prettier eslint-config-prettier eslint-plugin-prettier --save-dev
 ## Eslint plugin support for typescript: https://www.npmjs.com/package/eslint-import-resolver-typescript#installation
 npm i eslint-plugin-import eslint-import-resolver-typescript --save-dev
 
+## Immer 
+npm i immer --save-dev
+
+## Jest
+npm i @types/jest @testing-library/jest-dom jest ts-jest ts-node --save-dev
+npm i babel-jest --save-dev
+npm i eslint-plugin-jest --save-dev
+
+## React-testing (wrapper of DOM testing)
+npm i @testing-library/react --save-dev
+
 ```

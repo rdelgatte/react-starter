@@ -58,8 +58,10 @@ Linting tool that can be used to keep your code style consistent, enforce code q
 
 ## Testing libraries
 * [jest] - Delightful JavaScript Testing Framework
-* [enzyme - JavaScript Testing utilities for React
-* [react-testing-library - Simple and complete React DOM testing utilities
+* [react-testing-library](https://testing-library.com/docs/react-testing-library/intro/) - Simple and complete React DOM testing utilities
+
+Alternatives
+* [enzyme] - JavaScript Testing utilities for React
 * [react-hooks-testing-library - React hooks testing utilities that encourage good testing practices
 * [majestic - Zero config GUI for Jest
 
