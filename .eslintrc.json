@@ -19,7 +19,7 @@
       "typescript": {}
     }
   },
-  // As using Airbnb code styles 
+  // As using Airbnb code styles
   "rules": {
     // To fix import/no-extraneous-dependencies
     "import/no-extraneous-dependencies": [
@@ -46,6 +46,16 @@
       1,
       {
         "extensions": [".tsx"]
+      }
+    ],
+    // To use single quotes and raise a warning else.
+    "@typescript-eslint/quotes": ["warn", "single"],
+    // To fix no-param-reassign for state only (as we use immer and redux slices)
+    "no-param-reassign": [
+      "error",
+      {
+        "props": true,
+        "ignorePropertyModificationsFor": ["state"]
       }
     ]
   }
