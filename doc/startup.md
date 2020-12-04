@@ -63,10 +63,13 @@ npm i immer --save-dev
 
 ## Jest
 npm i @types/jest @testing-library/jest-dom jest ts-jest ts-node --save-dev
+npm i @types/jest --save-dev
 npm i babel-jest --save-dev
 npm i eslint-plugin-jest --save-dev
 
 ## React-testing (wrapper of DOM testing)
-npm i @testing-library/react --save-dev
-
+npm i @testing-library/react @testing-library/dom --save-dev
+npm i redux-mock-store --save-dev
+npm i redux-thunk --save-dev
+npm i @types/redux-mock-store --save-dev
 ```

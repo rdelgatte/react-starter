@@ -60,6 +60,8 @@ Linting tool that can be used to keep your code style consistent, enforce code q
 * [jest] - Delightful JavaScript Testing Framework
 * [react-testing-library](https://testing-library.com/docs/react-testing-library/intro/) - Simple and complete React DOM testing utilities
 
+[Testing with redux-toolkit stuff](https://dev.to/hbarcelos/a-better-approach-for-testing-your-redux-code-2ec9)
+
 Alternatives
 * [enzyme] - JavaScript Testing utilities for React
 * [react-hooks-testing-library - React hooks testing utilities that encourage good testing practices
